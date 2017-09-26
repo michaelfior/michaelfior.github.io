@@ -1,2 +1,2 @@
 # michaelfior.github.io
-Testing
+Please see "fake_project" for graphic and license info.
